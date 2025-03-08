@@ -16,7 +16,5 @@
 
 - 📫 How to reach me: [chimdumebinebolisa@gmail.com](mailto:chimdumebinebolisa@gmail.com)
 
-- 🔗 Look me up: [chimdumebinebolisa.netlify.app](https://chimdumebinebolisa.netlify.app)
-
 
 ![Chimdumebi Nebolisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChimdumebiNebolisa&show_icons=true&theme=radical)
