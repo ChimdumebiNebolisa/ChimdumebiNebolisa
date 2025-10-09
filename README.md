@@ -1,20 +1,17 @@
 <div align="center">
 
-# Hi 👋, I'm Chimdumebi Mitchell Nebolisa
+# 👋 Hi, I'm Chimdumebi Mitchell Nebolisa  
+### Computer Science Student • Full-Stack Developer • Problem Solver
 
 </div>
 
-- I am an enthusiastic frontend web developer from Nigeria with over 3 years of experience. I am currently focusing on extensive web projects that benefit mankind.
+- 🎓 I’m a Computer Science student at East Texas A&M University, passionate about building technology that simplifies life and connects people.  
+- 💻 I build full-stack web applications using **React, Next.js, Flask, Firebase, PostgreSQL, and Tailwind CSS** (amongst others).  
+- 🚀 Currently developing AI-powered and data-driven tools to improve productivity and user experience.  
+- 🧠 Always learning — currently exploring **Springboot**, **Java**, and **Cloudflare Workers**.  
+- 📂 Check out my projects here: [github.com/ChimdumebiNebolisa](https://github.com/ChimdumebiNebolisa)  
+- 📫 Reach me at: [chimdumebinebolisa@gmail.com](mailto:chimdumebinebolisa@gmail.com)
 
-- I’m working on a web3.0 project (Coming Soon...)
+---
 
-- 🌱 I’m currently learning Angular.js and Vue.js.
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChimdumebiNebolisa/](https://github.com/ChimdumebiNebolisa/)
-
-- 💬 Anything HTML, CSS, SCSS, Tailwind, Bootstrap, React, and NodeJS.
-
-- 📫 How to reach me: [chimdumebinebolisa@gmail.com](mailto:chimdumebinebolisa@gmail.com)
-
-
-![Chimdumebi Nebolisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChimdumebiNebolisa&show_icons=true&theme=radical)
+> _“I believe great software combines logic, empathy, and design — turning code into experiences that matter.”_
