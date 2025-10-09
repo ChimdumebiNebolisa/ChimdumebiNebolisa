@@ -12,6 +12,11 @@
 - 📂 Check out my projects here: [github.com/ChimdumebiNebolisa](https://github.com/ChimdumebiNebolisa)  
 - 📫 Reach me at: [chimdumebinebolisa@gmail.com](mailto:chimdumebinebolisa@gmail.com)
 
+### 🚀 Featured Projects
+- **[Event Hub](https://github.com/ChimdumebiNebolisa/event-hub)** – Unified calendar dashboard using Google & Microsoft APIs.
+- **[FocusMate](https://github.com/ChimdumebiNebolisa/focusmate)** – AI productivity workspace with task tracking and reflection analytics.
+- **[Polyglot-OCR](https://github.com/ChimdumebiNebolisa/polyglot-ocr)** – Chrome extension for OCR, translation & text-to-speech.
+
 ---
 
 > _“I believe great software combines logic, empathy, and design — turning code into experiences that matter.”_
