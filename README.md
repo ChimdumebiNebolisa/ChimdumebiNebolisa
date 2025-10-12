@@ -59,4 +59,4 @@ I love building projects that blend AI, data visualization, and user-focused des
 ---
 
 📫 **Reach me:** [chimdumebinebolisa@gmail.com](mailto:chimdumebinebolisa@gmail.com)  
-🧩 **Portfolio:** [github.com/ChimdumebiNebolisa](https://my-portfolio-dun-three-43.vercel.app/)
+🧩 **Portfolio:** [ChimdumebiNebolisa](https://my-portfolio-dun-three-43.vercel.app/)
