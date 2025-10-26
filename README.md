@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀🔥 Featured Projects – *My Core Work*
+## 🚀🔥 Featured Projects
 
 > 💡 *Click to explore the live app or view the code on GitHub!*
 
