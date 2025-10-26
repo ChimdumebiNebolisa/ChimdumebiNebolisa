@@ -9,6 +9,13 @@ I love building projects that blend AI, data visualization, and user-focused des
 
 ---
 
+## 🌟 Featured Projects
+- 🗓 **[Event Hub](https://github.com/ChimdumebiNebolisa/event-hub)** – Unified calendar dashboard integrating Google & Microsoft APIs.  
+- 🎯 **[FocusMate](https://github.com/ChimdumebiNebolisa/focusmate)** – AI productivity workspace for task tracking and reflection analytics.  
+- 🌍 **[Polyglot-OCR](https://github.com/ChimdumebiNebolisa/polyglot-ocr)** – Chrome extension for OCR, translation, and text-to-speech.  
+
+---
+
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning and AI APIs to create intelligent user experiences  
 - ☕ Building Spring Boot applications with PostgreSQL  
@@ -48,13 +55,6 @@ I love building projects that blend AI, data visualization, and user-focused des
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-- 🗓 **[Event Hub](https://github.com/ChimdumebiNebolisa/event-hub)** – Unified calendar dashboard integrating Google & Microsoft APIs.  
-- 🎯 **[FocusMate](https://github.com/ChimdumebiNebolisa/focusmate)** – AI productivity workspace for task tracking and reflection analytics.  
-- 🌍 **[Polyglot-OCR](https://github.com/ChimdumebiNebolisa/polyglot-ocr)** – Chrome extension for OCR, translation, and text-to-speech.  
 
 ---
 
