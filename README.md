@@ -3,15 +3,15 @@
 
 ---
 
-## 🚀🔥 Featured Projects
+## 🚀🔥 Featured Projects – *My Core Work*
 
-> 💡 *Click on any project title to explore it on GitHub!*
+> 💡 *Click to explore the live app or view the code on GitHub!*
 
 | 🌟 **Project** | **Description** |
 |:----------------|:----------------|
-| 🗓 [**Event Hub**](https://github.com/ChimdumebiNebolisa/event-hub) | Unified calendar dashboard integrating **Google & Microsoft APIs** — one hub for all your events. |
-| 🎯 [**FocusMate AI**](https://github.com/ChimdumebiNebolisa/focusmate) | An **AI-driven productivity workspace** for task tracking, reflection analytics, and focus sessions. |
-| 🌍 [**Polyglot-OCR**](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | A **Chrome Extension** for OCR, instant translation, and text-to-speech — ideal for multilingual workflows. |
+| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified calendar dashboard integrating **Google & Microsoft APIs** — one hub for all your events. |
+| 🎯 **FocusMate AI**<br>🔗 [Live Site](https://focusmate-tau.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/focusmate) | An **AI-driven productivity workspace** for task tracking, reflection analytics, and focus sessions. |
+| 🌍 **Polyglot-OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | A **Chrome Extension** for OCR, instant translation, and text-to-speech — ideal for multilingual workflows. |
 
 ---
 
