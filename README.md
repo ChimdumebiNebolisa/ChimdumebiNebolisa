@@ -3,16 +3,16 @@
 
 ---
 
-## 🪐 About Me
-I’m a third year Computer Science student at East Texas A&M University, with strong interests in designing technology that simplifies life and connects people.  
-I love building projects that blend AI, data visualization, and user-focused design, turning ideas into impactful, usable tools.
-
----
-
 ## 🌟 Featured Projects
 - 🗓 **[Event Hub](https://github.com/ChimdumebiNebolisa/event-hub)** – Unified calendar dashboard integrating Google & Microsoft APIs.  
 - 🎯 **[FocusMate](https://github.com/ChimdumebiNebolisa/focusmate)** – AI productivity workspace for task tracking and reflection analytics.  
 - 🌍 **[Polyglot-OCR](https://github.com/ChimdumebiNebolisa/polyglot-ocr)** – Chrome extension for OCR, translation, and text-to-speech.  
+
+---
+
+## 🪐 About Me
+I’m a third year Computer Science student at East Texas A&M University, with strong interests in designing technology that simplifies life and connects people.  
+I love building projects that blend AI, data visualization, and user-focused design, turning ideas into impactful, usable tools.
 
 ---
 
