@@ -11,6 +11,7 @@
 |:----------------|:----------------|
 | 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified calendar dashboard integrating **Google & Microsoft APIs** — one hub for all your events. |
 | 🎯 **FocusMate AI**<br>🔗 [Live Site](https://focusmate-tau.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/focusmate) | An **AI-driven productivity workspace** for task tracking, reflection analytics, and focus sessions. |
+| 📈 **Datuum**<br>🔗 [Live Site](https://datuum-7uap.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/datuum) | **Data to charts, fast.** Upload files and explore interactive visualizations with a clean Next.js UI. |
 | 🌍 **Polyglot-OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | A **Chrome Extension** for OCR, instant translation, and text-to-speech — ideal for multilingual workflows. |
 
 ---
