@@ -25,13 +25,6 @@ I care about **clean UX**, **real backend systems**, and **deployments that don�
 - ⚡ Shipping **cloud-deployed** apps with **CI/CD**
 - 🔭 Experimenting with **serverless / edge** patterns
 - 🧪 Performance + reliability: measure it, then optimize it
-
----
-
-## ☁️ Cloud / Deployment (not just buzzwords)
-- **Docker + GitHub Actions (CI/CD) + Google Cloud Run + Firebase** :contentReference[oaicite:3]{index=3}
-- **Cloudflare Workers** for fast edge execution (Polyglot OCR) :contentReference[oaicite:4]{index=4}
-
 ---
 
 ## 🧰 Tech Stack
