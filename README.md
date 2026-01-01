@@ -17,7 +17,7 @@
 ---
 
 ## 🪐 About Me
-I’m a third-year Computer Science student at **East Texas A&M University**, passionate about designing technology that simplifies life and connects people.  
+I’m a third-year Computer Science student at **East Texas A&M University**, with a strong interest in designing technology that simplifies life and connects people.  
 I love creating projects that blend **AI**, **data visualization**, and **human-centered design**, transforming abstract ideas into impactful, usable tools.
 
 ---
