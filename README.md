@@ -8,9 +8,9 @@
 
 | 🌟 **Project** | **Description** |
 |:--|:--|
-| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth + normalized event views.<br>✅ **100+ beta users** · ⚡ **1.2s** post-login dashboard load :contentReference[oaicite:0]{index=0} |
-| 📄 **PolicyInsight**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing + reporting pipeline with measurable performance validation.<br>✅ **100% success (35/35)** · ⏱️ **p95 ≤ 4.23s @ concurrency 5** :contentReference[oaicite:1]{index=1} |
-| 🌍 **Polyglot OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | Browser OCR → translation pipeline built for speed + multilingual workflows.<br>✅ **5 languages** · ⚡ **1.6s** end-to-end latency :contentReference[oaicite:2]{index=2} |
+| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth + normalized event views.|
+| 📄 **PolicyInsight**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing + reporting pipeline with measurable performance validation.|
+| 🌍 **Polyglot OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | Browser OCR → translation pipeline built for speed + multilingual workflows|
 
 ---
 
