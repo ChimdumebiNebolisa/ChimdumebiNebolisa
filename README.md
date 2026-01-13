@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Chimdumebi Mitchell Nebolisa**
-### 🎓 CS Student • 💻 Full-Stack SWE
+### 🎓 CS Student • 💻 Software-Engineer
 
 ---
 
