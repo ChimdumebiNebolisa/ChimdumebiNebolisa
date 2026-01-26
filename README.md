@@ -9,7 +9,7 @@
 | 🌟 **Project** | **Description** |
 |:--|:--|
 | 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth + normalized event views.|
-| 📄 **PolicyInsight**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing + reporting pipeline with measurable performance validation.|
+| 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing + reporting pipeline with measurable performance validation.|
 | 🌍 **Polyglot OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | Browser OCR → translation pipeline built for speed + multilingual workflows|
 
 ---
