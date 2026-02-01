@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Chimdumebi Mitchell Nebolisa**
-### 🎓 CS Student • 💻 Software-Engineer
+### 🎓 Computer Science Student | 💻 Software Engineer | Open Source Contributor
 
 ---
 
@@ -13,18 +13,15 @@
 | 🌍 **Polyglot OCR**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/polyglot-ocr) | Browser OCR → translation pipeline built for speed + multilingual workflows|
 
 ---
-
 ## 🪐 About Me
-I’m a third-year Computer Science student at **East Texas A&M University** who likes building products that actually ship.
-I care about **clean UX**, **real backend systems**, and **deployments that don’t fall apart**.
+I’m a third-year Computer Science student at **East Texas A&M University** who builds and contributes to **open-source software**.
+I focus on **clean UX**, **real backend systems**, and **deployments that don’t fall apart**.
 
 ---
 
 ## 🌱 What I'm Up To
-- ☕ Building **Spring Boot + PostgreSQL** backend systems
-- ⚡ Shipping **cloud-deployed** apps with **CI/CD**
-- 🔭 Experimenting with **serverless / edge** patterns
-- 🧪 Performance + reliability: measure it, then optimize it
+- 🧠 Contributing to **Apache Pulsar**, **OpenBB**, and **Excalidraw**
+- ⚙️ Building a backend pipeline that aggregates and scores early job-market signals from public sources
 ---
 
 ## 🧰 Tech Stack
