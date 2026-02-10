@@ -15,8 +15,8 @@
 
 ---
 ## 🪐 About Me
-I’m a third-year Computer Science student at **East Texas A&M University** who builds and contributes to **open-source software**.
-I focus on **clean UX**, **real backend systems**, and **deployments that don’t fall apart**.
+I’m a third-year Computer Science student at **East Texas A&M University** who contributes to **open-source software**.
+and focuses on **real backend systems**, and **deployments that don’t fall apart**.
 
 ---
 
