@@ -8,9 +8,9 @@
 
 | 🌟 **Project** | **Description** |
 |:--|:--|
-| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/)|[GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth and normalized event views. |
-| 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/)|[GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing and reporting pipeline with measurable performance validation. |
-| 📚 **ShelfEngine**<br>🔗 [Live Site](https://shelf-engine.vercel.app/)|[GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Local-first bookmark search tool that helps you quickly find saved links by typing what you remember, even if your search is vague. |
+| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth and normalized event views. |
+| 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/) [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async document-processing and reporting pipeline with measurable performance validation. |
+| 📚 **ShelfEngine**<br>🔗 [Live Site](https://shelf-engine.vercel.app/) [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Local-first bookmark search tool that helps you quickly find saved links by typing what you remember, even if your search is vague. |
 
 
 ---
