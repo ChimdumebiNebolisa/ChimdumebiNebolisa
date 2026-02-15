@@ -8,7 +8,7 @@
 
 | 🌟 **Project** | **Description** |
 |:--|:--|
-| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth and normalized event views. |
+| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google/Outlook calendar timeline with OAuth and normalized event views |
 | 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/) [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | an async PDF analysis service that produces citation-grounded reports using Gemini (Vertex AI) |
 | 📚 **ShelfEngine**<br>🔗 [Live Site](https://shelf-engine.vercel.app/) [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Semantic bookmark search engine powered by vector embeddings |
 
