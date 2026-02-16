@@ -12,6 +12,7 @@
 | 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async PDF analysis that generates citation-grounded reports using Vertex AI. |
 | 📚 **ShelfEngine**<br>🔗 [Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Find any saved link instantly using semantic, embedding-powered search. |
 | 🗺 **RepoAtlas**<br>🔗 [Live Site](https://repo-atlas-phi.vercel.app) · [GitHub](https://github.com/ChimdumebiNebolisa/RepoAtlas) | Turns any repo into a structured, high-level map so engineers onboard faster and navigate confidently. |
+| 🔐 **DigiTutor**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/digitutor) | Offline cybersecurity learning app that teaches teens to spot scams, create strong passwords, and protect their digital footprint. |
 
 
 
