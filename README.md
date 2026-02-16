@@ -6,13 +6,13 @@
 ## 🚀🔥 Featured Projects
 > 💡 *Click to explore the live app or view the code on GitHub.*
 
-| 🌟 **Project** | **Description** |
-|:--|:--|
-| 🗓 **Event Hub**<br>🔗 [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google + Outlook timeline with OAuth and clean, normalized event views. |
-| 📄 **PolicyInsight**<br>🔗 [Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async PDF analysis that generates citation-grounded reports using Vertex AI. |
-| 📚 **ShelfEngine**<br>🔗 [Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Find any saved link instantly using semantic, embedding-powered search. |
-| 🗺 **RepoAtlas**<br>🔗 [Live Site](https://repo-atlas-phi.vercel.app) · [GitHub](https://github.com/ChimdumebiNebolisa/RepoAtlas) | Turns any repo into a structured, high-level map so engineers onboard faster and navigate confidently. |
-| 🔐 **DigiTutor**<br>🔗 [GitHub](https://github.com/ChimdumebiNebolisa/digitutor) | Offline cybersecurity learning app that teaches teens to spot scams, create strong passwords, and protect their digital footprint. |
+| 🌟 **Projects to view** | **Description** |
+|:----------------|:--|
+| 🗓 **Event Hub**<br> [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google + Outlook timeline with OAuth and clean, normalized event views. |
+| 📄 **PolicyInsight**<br>[Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async PDF analysis that generates citation-grounded reports using Vertex AI. |
+| 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Find any saved link instantly using semantic, embedding-powered search. |
+| 🗺 **RepoAtlas**<br>[Live Site](https://repo-atlas-phi.vercel.app) · [GitHub](https://github.com/ChimdumebiNebolisa/RepoAtlas) | Turns any repo into a structured, high-level map so engineers onboard faster and navigate confidently. |
+| 🔐 **DigiTutor**<br>[GitHub](https://github.com/ChimdumebiNebolisa/digitutor) | Offline micro-learning app that teaches teens to spot scams and protect their digital footprint. |
 
 
 
