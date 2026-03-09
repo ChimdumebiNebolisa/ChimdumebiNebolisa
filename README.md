@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Chimdumebi Mitchell Nebolisa**
-### 🎓 Computer Science Student | 💻 Software Engineer | Open Source Contributor
+### 🎓 Computer Science Student | 💻 Software Engineer | ⚙️ Open Source Contributor
 
 ---
 
@@ -8,35 +8,40 @@
 
 | 🌟 **Projects to view** | **Description** |
 |:----------------|:--|
-| 🗓 **Event Hub**<br> [Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google + Outlook timeline with OAuth and clean, normalized event views. |
-| 📄 **PolicyInsight**<br>[Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async PDF analysis that generates citation-grounded reports using Vertex AI. |
-| 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | A private bookmark search tool that enables users to find saved content using natural language and intent (Recipient of the "Think Award" at The Merge Hackathon). |
-
+| 🗓 **Event Hub**<br>[Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google + Outlook timeline with OAuth, normalized event data, and clean cross-platform scheduling views. |
+| 📄 **PolicyInsight**<br>[Live Site](https://policy-insight-828177954618.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/policy-insight) | Async PDF analysis pipeline that turns uploaded documents into citation-grounded reports using Vertex AI. |
+| 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Private bookmark search with natural-language retrieval and intent-aware discovery. Recipient of the **Think Award** at **The Merge Hackathon**. |
+| 🔋 **CellScope**<br>[Live Site](https://cellscope-frontend.onrender.com/) · [GitHub](https://github.com/ChimdumebiNebolisa/CellScope) | No-account battery diagnostics app for CSV uploads or manual readings, with summary metrics, threshold alerts, anomaly detection, and health classification. |
 
 ---
+
 ## 🪐 About Me
-I’m a third-year Computer Science student at **East Texas A&M University** who contributes to **open-source software** and focuses on **real backend systems** that don’t fall apart.
+I’m a third-year Computer Science student at **East Texas A&M University** building software that is practical, technical, and actually useful. I like backend systems, data-heavy workflows, developer tooling, and products with clear real-world behavior.
 
 ---
 
 ## 🌱 What I'm Up To
-- 🧠 Contributing to **Apache Pulsar**, **OpenBB**, and **Excalidraw**
+- 🧠 Contributing to **Apache Pulsar** and **OpenBB**
 - ⚙️ Building a backend pipeline that aggregates and scores early job-market signals from public sources
+
 ---
 
 ## 🧰 Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-F89820?logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 **Frameworks / Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
