@@ -37,6 +37,7 @@ I’m a third-year Computer Science student at **East Texas A&M University** bui
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 **Frameworks / Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
