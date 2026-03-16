@@ -10,6 +10,7 @@
 |:----------------|:--|
 | 🗓 **Event Hub**<br>[Live Site](https://eventhub.buzz/) · [GitHub](https://github.com/ChimdumebiNebolisa/event-hub) | Unified Google + Outlook timeline with OAuth, normalized event data, and clean cross-platform scheduling views. |
 | 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Private bookmark search with natural-language retrieval and intent-aware discovery. Recipient of the **Think Award** at **The Merge Hackathon**. |
+| 🎙 **Claros**<br>[Live Site](https://claros-505797934944.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/Claros) | AI agent that parses uploaded PDFs into structured questions, guides students through problems conversationally, and fills answers directly into the worksheet. |
 | 🔋 **CellScope**<br>[Live Site](https://cellscope-frontend.onrender.com/) · [GitHub](https://github.com/ChimdumebiNebolisa/CellScope) | No-account battery diagnostics app for CSV uploads or manual readings, with summary metrics, threshold alerts, anomaly detection, and health classification. |
 
 ---
