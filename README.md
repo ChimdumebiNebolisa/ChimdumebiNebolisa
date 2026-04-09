@@ -15,7 +15,7 @@
 ---
 
 ## 🪐 About Me
-I’m a third-year Computer Science student at **East Texas A&M University** building software that is practical, technical, and actually useful. I like backend systems, data-heavy workflows, developer tooling, and products with clear real-world behavior.
+I’m a third-year Computer Science student at **East Texas A&M University** building software that is practical, technical, and actually useful. I like backend systems, data-heavy workflows, developer tooling, and products with clear real-world use.
 
 ---
 
