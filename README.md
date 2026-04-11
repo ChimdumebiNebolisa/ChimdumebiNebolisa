@@ -9,8 +9,8 @@
 | 🌟 **Projects to view** | **Description** |
 |:----------------|:--|
 | 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Private bookmark search with natural-language retrieval and intent-aware discovery. Recipient of the **Think Award** at **The Merge Hackathon**. |
-| 🎙 **Claros**<br>[Live Site](https://claros-505797934944.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/Claros) | AI agent that parses uploaded PDFs into structured questions, guides students through problems conversationally, and fills answers directly into the worksheet. |
-| 📝 **BeforeYouSign**<br>[Live Site](https://before-you-sign-one.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/BeforeYouSign) | AI-assisted lease review tool that helps students and first-time renters understand rental agreements through plain-English summaries, risk signals, key terms, and actionable follow-up questions before signing. |
+| 🎙 **Claros**<br>[Live Site](https://claros-505797934944.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/Claros) | AI tutoring agent that parses uploaded PDFs into structured questions, guides students through problems conversationally, and fills answers directly into the worksheet. |
+| 📝 **BeforeYouSign**<br>[Live Site](https://before-you-sign-one.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/BeforeYouSign) | AI-assisted lease review tool that helps potential renters understand rental agreements through plain-English summaries, risk signals, key terms, and actionable follow-up questions before signing. |
 
 ---
 
