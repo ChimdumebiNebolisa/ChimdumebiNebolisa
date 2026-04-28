@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Chimdumebi Mitchell Nebolisa**
+# 👋 Hi, I'm **Chimdumebi Mitchell Nebolisa!**
 ### 🎓 Computer Science Student | 💻 Software Engineer | ⚙️ Open Source Contributor
 
 ---
