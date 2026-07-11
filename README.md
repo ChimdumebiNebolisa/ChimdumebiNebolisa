@@ -9,7 +9,7 @@
 | 🌟 **Projects to view** | **Description** |
 |:----------------|:--|
 | 📚 **ShelfEngine**<br>[Live Site](https://shelf-engine.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/ShelfEngine) | Private bookmark search with natural-language retrieval and intent-aware discovery. Recipient of the **Think Award** at **The Merge Hackathon**. |
-| 🎙 **Claros**<br>[Live Site](https://claros-505797934944.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/Claros) | AI tutoring agent that parses uploaded PDFs into structured questions, guides students through problems conversationally, and fills answers directly into the worksheet. |
+| 🎙 **Claros**<br>[Live Site](https://claros-505797934944.us-central1.run.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/Claros) | AI tutoring agent that parses uploaded PDFs into structured questions, guides students through problems conversationally, and fills answers directly into the worksheet. Recipient of the **Iteration Machine Special Prize** at **DSH Hacks V1**. |
 | 📝 **BeforeYouSign**<br>[Live Site](https://before-you-sign-one.vercel.app/) · [GitHub](https://github.com/ChimdumebiNebolisa/BeforeYouSign) | AI lease reviewer providing risk alerts, plain-English summaries, and follow-up guidance for renters. **Finalist** in the **OpenAI x Handshake** Codex Creator Challenge. |
 
 ---
@@ -20,7 +20,7 @@ I’m a third-year Computer Science student at **East Texas A&M University** bui
 ---
 
 ## 🌱 What I'm Up To
-- 🧠 Contributing to **Apache Pulsar** and **OpenBB**
+- 🧠 Contributing to **Apache Pulsar**, **OpenBB** and **Docasaurus**
 - ⚙️ Building a backend pipeline that aggregates and scores early job-market signals from public sources
 
 ---
