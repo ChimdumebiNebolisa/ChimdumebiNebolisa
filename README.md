@@ -20,7 +20,7 @@ I’m a third-year Computer Science student at **East Texas A&M University** bui
 ---
 
 ## 🌱 What I'm Up To
-- 🧠 Contributing to **Apache Pulsar**, **OpenBB** & **Docusaurus**
+- 🧠 Contributing to: **Apache Pulsar**, **OpenBB** e.t.c.
 - ⚙️ Building a backend pipeline that aggregates and scores early job-market signals from public sources
 
 ---
