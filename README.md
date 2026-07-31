@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀🔥 Award-Winning Projects.
+## 🚀🔥 Featured Projects.
 > 💡 *Click to explore the live app or view the code on GitHub.*
 
 | 🌟 **Projects to view** | **Description** |
